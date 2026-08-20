@@ -37,6 +37,7 @@ Computer Engineer · MSc in Cybersecurity & Cyber Intelligence (UPV) · Mobile &
 | [**mastg-writeups**](https://github.com/aop24/mastg-writeups) | Mobile security writeups (OWASP MASTG) on public practice apps |
 | [**pentesting-labs**](https://github.com/aop24/pentesting-labs) | Binary exploitation and digital forensics labs (ret2libc, ASLR bypass, Volatility 3) |
 | [**linpeas-casero**](https://github.com/aop24/linpeas-casero) | Modular Linux post-exploitation enumeration framework built from scratch (SUID, cron, capabilities, sudo, kernel CVEs, NFS, LD_PRELOAD) |
+| [**nmap-vuln-scanner**](https://github.com/aop24/nmap-vuln-scanner) | Nmap automation with layered CVE matching: curated DB, live NVD API lookup by CPE, and optional Exploit-DB integration |
 
 📄 See the full list with details in my [portfolio repo](https://github.com/aop24/portfolio).
 
