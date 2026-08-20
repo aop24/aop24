@@ -32,17 +32,15 @@ Computer Engineer · MSc in Cybersecurity & Cyber Intelligence (UPV) · Mobile &
 | Project | Description |
 |---|---|
 | [**pki-tfg**](https://github.com/aop24/pki-tfg) | Custom PKI + 3 secure communication models (OpenSSL, hybrid TLS/UDP, DTLS with wolfSSL) |
-| [**aopgasobot**](https://github.com/aop24/aopgasobot) | Telegram bot in Python that tracks fuel prices via Spain's MINCOTUR API |
-| [**restaurant-pos**](https://github.com/aop24/restaurant-pos) | LAN-based restaurant POS system (FastAPI/PostgreSQL + React/Tailwind) |
-| [**mastg-writeups**](https://github.com/aop24/mastg-writeups) | Mobile security writeups (OWASP MASTG) on public practice apps |
-| [**pentesting-labs**](https://github.com/aop24/pentesting-labs) | Binary exploitation and digital forensics labs (ret2libc, ASLR bypass, Volatility 3) |
-| [**linpeas-casero**](https://github.com/aop24/linpeas-casero) | Modular Linux post-exploitation enumeration framework built from scratch (SUID, cron, capabilities, sudo, kernel CVEs, NFS, LD_PRELOAD) |
+| [**mobile-sec-toolkit**](https://github.com/aop24/mobile-sec-toolkit) | Python toolkit for static MASTG-aligned APK analysis and Frida-based dynamic bypass |
+| [**bot-gasolina**](https://github.com/aop24/bot-gasolina) | Telegram bot in Python that tracks fuel prices via Spain's MINCOTUR API |
+| [**linpeas**](https://github.com/aop24/linpeas) | Modular Linux post-exploitation enumeration framework built from scratch (SUID, cron, capabilities, sudo, kernel CVEs, NFS, LD_PRELOAD) |
 | [**nmap-vuln-scanner**](https://github.com/aop24/nmap-vuln-scanner) | Nmap automation with layered CVE matching: curated DB, live NVD API lookup by CPE, and optional Exploit-DB integration |
 
 📄 See the full list with details in my [portfolio repo](https://github.com/aop24/portfolio).
 
 ### 📫 Contact
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-olivares-perona-516681253/) · [Email](mailto:angelolivares305@gmail.com)
 
 </div>
